@@ -1,0 +1,9 @@
+los datos son:
+Nombre: fran
+ Apellido: sierra----------
+Nombre: carlos
+ Apellido: jose----------
+Nombre: yeli
+ Apellido: contreras----------
+Nombre: roberto
+ Apellido: tarado----------
